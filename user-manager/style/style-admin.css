@@ -1,0 +1,168 @@
+.widefatOuter
+{
+	width: 100%;
+	margin: 0 auto;
+	background-color: #fff;
+	border: thin solid #ccc;
+	display: table;
+    
+}
+
+a.row-title-action {
+    text-decoration: none;
+    font-size: 13px;
+    line-height: normal;
+    color: #FFF;
+    cursor: pointer;
+    outline: 0;
+}
+
+table.widefat {
+	width: 100%;
+	margin: 0 auto;
+	border:none;
+	background-color: #fff;
+}
+
+input[type="text"], input[type="search"], input[type="radio"], input[type="tel"], input[type="time"], input[type="url"], input[type="week"], input[type="password"], input[type="checkbox"], input[type="color"], input[type="date"], input[type="datetime"], input[type="datetime-local"], input[type="email"], input[type="month"], input[type="number"], select, textarea {
+    border: thin solid #ccc;
+    background-color: #fff;
+    color: #000;
+    outline: 0;
+    transition: 50ms border-color ease-in-out;
+}
+
+td.simple-table-manager-list-all-even {
+	
+}
+
+td.simple-table-manager-list-all-odd {
+	color: #000000;
+	background-color: #FFF;
+}
+
+input[type=text] {
+	width: 90%;
+}
+
+textarea {
+	width: 90%;
+	height: 10em;
+}
+
+
+.links{
+	margin: 10px auto;
+}
+
+.links > a{
+	padding: 8px 16px;
+    text-decoration: none;
+    border: none;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+    background: #f7f7f7;
+    text-shadow: none;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: normal;
+    color: #0073aa;
+    cursor: pointer;
+    outline: 0;
+}
+
+.links > a:hover {
+border-color: #008EC2;
+background: #00a0d2;
+color: #fff;
+}
+
+ul.joblist li {
+	padding-left: 30px;
+}
+
+.Title{
+	font-weight: bolder;
+    font-size: 14px;
+    line-height: normal;
+    color: #0073aa;
+}
+
+.jobtitleCol{
+	font-weight: 600;
+    
+    line-height: normal;
+	color: #FFF !important;
+	background: #0073aa;
+	text-transform: uppercase;
+}
+.remove{
+	font-weight: 600;
+    font-size: 13px;
+    line-height: normal;
+	color: #941909;
+	text-transform: uppercase;	
+	cursor: pointer;
+	display: inline-block;
+}
+
+
+#the-list tr:nth-child(odd) {
+	background-color: #f9f9f9;
+	border: 1px solid #999;
+}
+
+
+
+.removeNew
+{
+	font-weight: 600;
+    font-size: 13px;
+    line-height: normal;
+	color: #941909;
+	text-transform: uppercase;	
+	cursor: pointer;
+	display: inline-block;
+}
+
+
+.remove2{
+	font-weight: 600;
+    font-size: 13px;
+    line-height: normal;
+	color: #941909;
+	text-transform: uppercase;	
+	cursor: pointer;
+	display: inline-block;
+}
+
+
+.addList{
+	font-weight: 600;
+    font-size: 12px;
+    line-height: normal;
+	color: #941909;
+	text-transform: uppercase;	
+	cursor: pointer;
+	display: inline-block;
+	border: none;
+}
+.jmicons{
+	font-size: 15px;
+    margin-top: 4px;
+    cursor: pointer;
+}
+.dashicons-plus-p{
+	cursor: pointer;
+}
+.dashicons-plus-l{
+	cursor: pointer;
+}
+
+
+.dashicons-plus-p2{
+	cursor: pointer;
+}
+.dashicons-plus-l2{
+	cursor: pointer;
+}
